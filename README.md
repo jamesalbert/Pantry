@@ -1,0 +1,2 @@
+# Pantry
+apps are stupid
